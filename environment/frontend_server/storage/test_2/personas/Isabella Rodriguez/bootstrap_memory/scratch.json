@@ -1,0 +1,235 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 00:55:00",
+  "curr_tile": [
+    73,
+    14
+  ],
+  "daily_plan_req": "1. Wake up at 6:00 am and complete morning routine by 6:30 am. 2. Dress in anti-static workwear and perform a safety check on equipment by 7:00 am. 3. Begin gas injection welding process, ensuring proper ventilation and recording parameters by 8:00 am. 4. Regularly inspect and clean workspace and equipment throughout the day, ensuring components are clean before proceeding with welding. 5. Follow safety procedures meticulously, double-checking work for accuracy and ensuring gas system seals are intact. 6. Finish workday by 5:00 pm and clean up workspace before leaving.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 28,
+  "innate": "diligent, safety-conscious, detail-oriented",
+  "learned": "Isabella Rodriguez is a dedicated machine operator who adheres to strict safety protocols. She values precision and efficiency in her work, ensuring that all equipment is in optimal condition before starting. Isabella is known for her attention to detail and commitment to safety.",
+  "currently": "Status: Isabella Rodriguez is starting her workday on Tuesday, February 14th with a detailed plan in place. She remains an organized and safety-conscious worker, prioritizing safety checks and maintaining a clean and safe work environment. Isabella will continue to follow all guidelines meticulously and double-check her work for accuracy throughout the day. She will also take extra steps to ensure safety as she performs her welding tasks with precision.",
+  "lifestyle": "Isabella Rodriguez maintains a disciplined lifestyle, going to bed around 10:00 PM and waking up at 6:00 AM to ensure she is well-rested and alert for her work.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 119,
+  "importance_ele_n": 19,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "arrive for work by 9:00 am",
+    "perform safety checks before beginning the gas injection welding at 10:00 am",
+    "take a lunch break at 12:00 pm",
+    "resume work at 1:00 pm and finish the gas injection welding",
+    "clean up and shut down at 5:00 pm",
+    "finish the commute back home by 6:00 pm",
+    "make dinner at 7:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (showering)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (packing her lunch)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (checking her work bag)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (checking her phone)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (leaving for work)",
+      5
+    ],
+    [
+      "arriving for work",
+      60
+    ],
+    [
+      "performing safety checks before beginning the gas injection welding",
+      60
+    ],
+    [
+      "beginning the gas injection welding process",
+      60
+    ],
+    [
+      "taking a lunch break",
+      60
+    ],
+    [
+      "resuming her work and continuing the gas injection welding",
+      60
+    ],
+    [
+      "continuing her gas injection welding",
+      60
+    ],
+    [
+      "inspecting and cleaning her workspace and equipment",
+      60
+    ],
+    [
+      "continuing her gas injection welding",
+      60
+    ],
+    [
+      "double-checking her work for accuracy and ensuring gas system seals are intact",
+      60
+    ],
+    [
+      "commuting back home",
+      60
+    ],
+    [
+      "making dinner",
+      120
+    ],
+    [
+      "relaxing",
+      60
+    ],
+    [
+      "cleaning up and getting ready for bed",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "arriving for work",
+      60
+    ],
+    [
+      "performing safety checks before beginning the gas injection welding",
+      60
+    ],
+    [
+      "beginning the gas injection welding process",
+      60
+    ],
+    [
+      "taking a lunch break",
+      60
+    ],
+    [
+      "resuming her work and continuing the gas injection welding",
+      60
+    ],
+    [
+      "continuing her gas injection welding",
+      60
+    ],
+    [
+      "inspecting and cleaning her workspace and equipment",
+      60
+    ],
+    [
+      "continuing her gas injection welding",
+      60
+    ],
+    [
+      "double-checking her work for accuracy and ensuring gas system seals are intact",
+      60
+    ],
+    [
+      "commuting back home",
+      60
+    ],
+    [
+      "making dinner",
+      120
+    ],
+    [
+      "relaxing",
+      60
+    ],
+    [
+      "cleaning up and getting ready for bed",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:bed",
+  "act_start_time": "February 14, 2023, 00:00:00",
+  "act_duration": 480,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\udca4",
+  "act_event": [
+    "Isabella Rodriguez",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "being slept on",
+  "act_obj_pronunciatio": "\ud83d\ude34\ud83d\udecf\ufe0f",
+  "act_obj_event": [
+    "bed",
+    "be",
+    "slept"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

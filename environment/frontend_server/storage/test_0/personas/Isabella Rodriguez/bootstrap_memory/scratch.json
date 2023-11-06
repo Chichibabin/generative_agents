@@ -1,0 +1,248 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 21:57:00",
+  "curr_tile": [
+    76,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez follows the safety procedures for one-time gas injection welding. Her workday begins with dressing in anti-static workwear and checking her equipment. She maintains proper ventilation throughout her shift, ensuring no interruptions. Isabella inspects the equipment, recording parameters, and checking gas system seals during the welding process. She prioritizes a clean workspace, not proceeding with welding if components are unclean. Safety is her top concern, and she follows all procedures meticulously.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 28,
+  "innate": "diligent, safety-conscious, detail-oriented",
+  "learned": "Isabella Rodriguez is a dedicated machine operator who adheres to strict safety protocols. She values precision and efficiency in her work, ensuring that all equipment is in optimal condition before starting. Isabella is known for her attention to detail and commitment to safety.",
+  "currently": "Isabella Rodriguez is currently following the safety procedures for one-time gas injection welding. Her daily routine includes wearing anti-static workwear, inspecting equipment, and performing welding tasks with precision. She places a strong emphasis on maintaining a clean and safe work environment, following all guidelines meticulously.",
+  "lifestyle": "Isabella Rodriguez maintains a disciplined lifestyle, going to bed around 10:00 PM and waking up at 6:00 AM to ensure she is well-rested and alert for her work.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 133,
+  "importance_ele_n": 15,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "check the welding equipment and start the welding process at 9:00 am",
+    "take a lunch break at 12:00 pm",
+    "go for a walk at 4:00 pm for some exercise",
+    "complete the welding process at 6:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed in anti-static workwear)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (checking the welding equipment)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (checking the gas system seals)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (ensuring proper ventilation)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (recording parameters)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (cleaning components)",
+      10
+    ],
+    [
+      "checking the welding equipment and starting the welding process",
+      60
+    ],
+    [
+      "welding",
+      120
+    ],
+    [
+      "taking a lunch break",
+      60
+    ],
+    [
+      "taking a walk for exercise",
+      60
+    ],
+    [
+      "welding (putting on her anti-static workwear)",
+      10
+    ],
+    [
+      "welding (inspecting the equipment)",
+      15
+    ],
+    [
+      "welding (checking the gas system seals)",
+      10
+    ],
+    [
+      "welding (setting up the welding machine)",
+      10
+    ],
+    [
+      "welding (welding)",
+      20
+    ],
+    [
+      "welding (checking the welds)",
+      10
+    ],
+    [
+      "welding (cleaning the workspace)",
+      10
+    ],
+    [
+      "welding (checking the equipment)",
+      10
+    ],
+    [
+      "welding (taking a break)",
+      10
+    ],
+    [
+      "welding (checking the welds)",
+      10
+    ],
+    [
+      "welding (shutting down the welding machine)",
+      5
+    ],
+    [
+      "taking a walk for exercise",
+      60
+    ],
+    [
+      "welding",
+      60
+    ],
+    [
+      "completing the welding process",
+      60
+    ],
+    [
+      "cleaning up the workspace",
+      120
+    ],
+    [
+      "preparing dinner",
+      60
+    ],
+    [
+      "eating dinner",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "checking the welding equipment and starting the welding process",
+      60
+    ],
+    [
+      "welding",
+      120
+    ],
+    [
+      "taking a lunch break",
+      60
+    ],
+    [
+      "taking a walk for exercise",
+      60
+    ],
+    [
+      "welding",
+      120
+    ],
+    [
+      "taking a walk for exercise",
+      60
+    ],
+    [
+      "welding",
+      60
+    ],
+    [
+      "completing the welding process",
+      60
+    ],
+    [
+      "cleaning up the workspace",
+      120
+    ],
+    [
+      "preparing dinner",
+      60
+    ],
+    [
+      "eating dinner",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:closet",
+  "act_start_time": "February 13, 2023, 14:00:00",
+  "act_duration": 10,
+  "act_description": "welding (putting on her anti-static workwear)",
+  "act_pronunciatio": "\ud83d\udc69\u200d\ud83d\udd2c",
+  "act_event": [
+    "Isabella Rodriguez",
+    "put on",
+    "anti-static workwear"
+  ],
+  "act_obj_description": "being used by someone",
+  "act_obj_pronunciatio": "\ud83d\ude4b\u200d\u2642",
+  "act_obj_event": [
+    "closet",
+    "be",
+    "used"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

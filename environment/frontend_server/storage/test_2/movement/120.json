@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        15
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83d\udd2c",
+      "description": "performing safety checks before beginning the gas injection welding (putting on her anti-static workwear) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:00:00"
+  }
+}

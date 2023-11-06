@@ -1,0 +1,323 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 23:50:00",
+  "curr_tile": [
+    77,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez follows the safety procedures for one-time gas injection welding. Her workday begins with dressing in anti-static workwear and checking her equipment. She maintains proper ventilation throughout her shift, ensuring no interruptions. Isabella inspects the equipment, recording parameters, and checking gas system seals during the welding process. She prioritizes a clean workspace, not proceeding with welding if components are unclean. Safety is her top concern, and she follows all procedures meticulously.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 28,
+  "innate": "diligent, safety-conscious, detail-oriented",
+  "learned": "Isabella Rodriguez is a dedicated machine operator who adheres to strict safety protocols. She values precision and efficiency in her work, ensuring that all equipment is in optimal condition before starting. Isabella is known for her attention to detail and commitment to safety.",
+  "currently": "Isabella Rodriguez is currently following the safety procedures for one-time gas injection welding. Her daily routine includes wearing anti-static workwear, inspecting equipment, and performing welding tasks with precision. She places a strong emphasis on maintaining a clean and safe work environment, following all guidelines meticulously.",
+  "lifestyle": "Isabella Rodriguez maintains a disciplined lifestyle, going to bed around 10:00 PM and waking up at 6:00 AM to ensure she is well-rested and alert for her work.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 35,
+  "importance_ele_n": 47,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "start work duties at 8:30 am",
+    "have a lunch break at 12:00 pm",
+    "continue working on welding tasks at 2:00 pm",
+    "take a short break to stretch and relax at 4:00 pm",
+    "continue working on welding tasks until 6:00 pm",
+    "end work for the day at 6:00 pm",
+    "have dinner at 7:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed in anti-static workwear)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (checking her equipment)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (inspecting the gas system seals)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (recording parameters)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (checking for clean components)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (reviewing safety procedures)",
+      10
+    ],
+    [
+      "starting work duties (dressing in anti-static workwear)",
+      10
+    ],
+    [
+      "starting work duties (inspecting her equipment)",
+      10
+    ],
+    [
+      "starting work duties (checking the gas system seals)",
+      10
+    ],
+    [
+      "starting work duties (recording parameters)",
+      10
+    ],
+    [
+      "starting work duties (checking for clean components)",
+      10
+    ],
+    [
+      "starting work duties (following safety protocols)",
+      10
+    ],
+    [
+      "working on welding tasks (dressing in anti-static workwear)",
+      5
+    ],
+    [
+      "working on welding tasks (checking her equipment)",
+      10
+    ],
+    [
+      "working on welding tasks (maintaining proper ventilation)",
+      10
+    ],
+    [
+      "working on welding tasks (inspecting the equipment)",
+      10
+    ],
+    [
+      "working on welding tasks (recording parameters)",
+      10
+    ],
+    [
+      "working on welding tasks (checking gas system seals)",
+      10
+    ],
+    [
+      "working on welding tasks (cleaning the workspace)",
+      5
+    ],
+    [
+      "having a lunch break (changing out of her anti-static workwear)",
+      10
+    ],
+    [
+      "having a lunch break (washing her hands)",
+      10
+    ],
+    [
+      "having a lunch break (eating her lunch)",
+      30
+    ],
+    [
+      "having a lunch break (taking a break)",
+      15
+    ],
+    [
+      "having a lunch break (checking her equipment)",
+      10
+    ],
+    [
+      "having a lunch break (reviewing safety protocols)",
+      10
+    ],
+    [
+      "having a lunch break (cleaning her workspace)",
+      10
+    ],
+    [
+      "having a lunch break (changing back into her anti-static workwear)",
+      10
+    ],
+    [
+      "having a lunch break (checking gas system seals)",
+      10
+    ],
+    [
+      "having a lunch break (recording parameters)",
+      5
+    ],
+    [
+      "continuing to work on welding tasks",
+      180
+    ],
+    [
+      "taking a short break to stretch and relax",
+      60
+    ],
+    [
+      "continuing to work on welding tasks",
+      60
+    ],
+    [
+      "finishing up her work duties for the day",
+      60
+    ],
+    [
+      "having dinner",
+      120
+    ],
+    [
+      "relaxing and winding down for the day",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "starting work duties",
+      60
+    ],
+    [
+      "working on welding tasks",
+      60
+    ],
+    [
+      "having a lunch break",
+      120
+    ],
+    [
+      "continuing to work on welding tasks",
+      180
+    ],
+    [
+      "taking a short break to stretch and relax",
+      60
+    ],
+    [
+      "continuing to work on welding tasks",
+      60
+    ],
+    [
+      "finishing up her work duties for the day",
+      60
+    ],
+    [
+      "having dinner",
+      120
+    ],
+    [
+      "relaxing and winding down for the day",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:closet",
+  "act_start_time": "February 13, 2023, 10:00:00",
+  "act_duration": 5,
+  "act_description": "working on welding tasks (dressing in anti-static workwear)",
+  "act_pronunciatio": "\ud83d\udc55\u26a1\ufe0f",
+  "act_event": [
+    "Isabella Rodriguez",
+    "dress",
+    "anti-static workwear"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+  "act_obj_event": [
+    "closet",
+    "be",
+    "used"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        15
+      ],
+      "pronunciatio": "\u2615\ufe0f\ud83c\udf34",
+      "description": "cleaning up and shutting down (taking a break) @ the Ville:The Rose and Crown Pub:pub:shelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:00:00"
+  }
+}
